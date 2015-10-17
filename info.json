@@ -1,0 +1,11 @@
+
+{
+  "name": "Fishing Pole",
+  "version": "0.1.0",
+  "title": "Fishing Pole",
+  "author": "Ranakastrasz",
+  "contact": "~",
+  "homepage": "",
+  "description": "Allows Inserters to act as fishing poles",
+  "dependencies": ["base"]
+}
